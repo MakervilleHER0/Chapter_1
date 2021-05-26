@@ -7,4 +7,4 @@
 
 # If the code isn't working, please watch my Youtube video to understand how to make the code work
 
-# Dependancies: You will need Visual Studio 2017 (v15.9), Python 3.3.6, openCV v3.4.10, and face_recognition 1.2.3
+# Dependencies: You will need Visual Studio 2017 (v15.9), Python 3.6.6, openCV v3.4.10, and face_recognition 1.2.3
