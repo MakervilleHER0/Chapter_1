@@ -5,6 +5,6 @@
 # You will also need to change the code to rename the photos to match the names of your photos.
 # You can increase or decrease the number of photos (currently I use 7 photos). Just be consistant. 
 
-# If the code isn't working, please watch my Youtube video to understand how to make the code work
+# If the code isn't working, please watch my Youtube video to understand how to make the code work: https://www.youtube.com/watch?v=dAQqvqcuiV8
 
 # Dependencies: You will need Visual Studio 2017 (v15.9), Python 3.6.6, openCV v3.4.10, and face_recognition 1.2.3
